@@ -80,3 +80,5 @@ The Null hypothesis data from the fisher's test,confirms the true odds ratio is 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+According to all the data presented after using the catagorical/catagorical rmd helper file. I was not able to find any relationship between the vaccination or the placebo in females other than the idea that a person is more likely to get aids after getting vaccinated rather than getting the placebo.
